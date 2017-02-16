@@ -1,0 +1,565 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  ACTIVEBUFFER_V2.brd                                                         |
+|                                                    Wed Feb 15 20:48:49 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  1V25_A       pins ADDED TO this new net
+                                 C27.1          R27.1          R28.2          
+                                 U10.1          U12.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  1V65_A       pins ADDED TO this new net
+                                 C28.1          R29.1          R30.2          
+                                 U11.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5V_A         pins ADDED TO this new net
+                                 C18.1          C21.1          R28.1          
+                                 R30.1          U9.5           U10.7          
+                                 U11.7          U12.7          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5V_D         pins ADDED TO this new net
+                                 C7.1           C8.1           C9.1           
+                                 C10.1          C14.2          C25.1          
+                                 U1.3           U1.8           U4.3           
+                                 U4.8           U7.2           U14.2          
+                                 U14.4          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  6.5V         pins ADDED TO this new net
+                                 C19.1          C26.1          J2.1           
+                                 J3.11          J3.18          J4.12          
+                                 J4.17          U9.4           U14.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  6V_D_I       pins ADDED TO this new net
+                                 C4.1           C5.1           C6.1           
+                                 C11.1          C12.1          C13.1          
+                                 C29.1          D3.2           D6.2           
+                                 R25.1          U1.11          U4.11          
+                                 U13.5          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  9V_D_I       pins ADDED TO this new net
+                                 C15.1          C30.1          U7.5           
+                                 U13.4          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AC_NEG_SENSE pins ADDED TO this new net
+                                 J3.28          U10.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AC_POS_SENSE pins ADDED TO this new net
+                                 J3.27          U11.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AGND         pins ADDED TO this new net
+                                 C18.2          C19.2          C21.2          
+                                 C24.2          C27.2          C28.2          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  ACTIVEBUFFER_V2.brd                                                         |
+|                                                    Wed Feb 15 20:48:49 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J3.1           J3.2           J3.3           
+                                 J3.12          J3.13          J3.14          
+                                 R21.2          R27.2          R29.2          
+                                 U9.1           U9.2           U9.3           
+                                 U10.4          U11.4          U12.4          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DGND         pins ADDED TO this new net
+                                 C7.2           C8.2           C9.2           
+                                 C10.2          C14.1          C25.2          
+                                 C26.2          J2.2           J3.4           
+                                 J3.5           J3.6           J3.7           
+                                 J3.8           J3.9           J3.10          
+                                 J4.15          J4.16          J4.18          
+                                 J4.19          J4.20          J4.21          
+                                 J4.22          J4.23          J4.24          
+                                 J4.25          J4.26          J4.27          
+                                 J4.28          U1.4           U4.4           
+                                 U7.1           U14.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DGND_I       pins ADDED TO this new net
+                                 C2.2           C4.2           C5.2           
+                                 C6.2           C11.2          C12.2          
+                                 C13.2          C15.2          C20.2          
+                                 C29.2          C30.2          R12.2          
+                                 R26.2          U1.9           U3.3           
+                                 U4.9           U6.3           U7.4           
+                                 U10.2          U13.2          U13.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EPWM2A       pins ADDED TO this new net
+                                 J3.19          U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EPWM2B       pins ADDED TO this new net
+                                 J4.11          U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EPWM3A       pins ADDED TO this new net
+                                 J3.20          U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EPWM3B       pins ADDED TO this new net
+                                 J4.10          U4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EPWM4A       pins ADDED TO this new net
+                                 J3.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EPWM4B       pins ADDED TO this new net
+                                 J4.9           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  ACTIVEBUFFER_V2.brd                                                         |
+|                                                    Wed Feb 15 20:48:49 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  EPWM5A       pins ADDED TO this new net
+                                 J3.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EPWM5B       pins ADDED TO this new net
+                                 J4.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EPWM6A       pins ADDED TO this new net
+                                 J3.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EPWM6B       pins ADDED TO this new net
+                                 J4.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EPWM7A       pins ADDED TO this new net
+                                 J3.24          U1.5           U4.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EPWM7B       pins ADDED TO this new net
+                                 J4.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IL_SENSE     pins ADDED TO this new net
+                                 J3.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IOUT_SENSE   pins ADDED TO this new net
+                                 J3.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N781841      pins ADDED TO this new net
+                                 CB.2           L1.1           U1.14          
+                                 U2.3           U3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N781966      pins ADDED TO this new net
+                                 D1.2           R1.1           U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N781975      pins ADDED TO this new net
+                                 R1.2           R3.2           U1.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N782045      pins ADDED TO this new net
+                                 D2.2           R2.1           U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N782049      pins ADDED TO this new net
+                                 R2.2           R4.2           U1.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N782151      pins ADDED TO this new net
+                                 CB.1           D3.1           U1.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N782572      pins ADDED TO this new net
+                                 U1.12          U1.13          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  ACTIVEBUFFER_V2.brd                                                         |
+|                                                    Wed Feb 15 20:48:49 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N782576      pins ADDED TO this new net
+                                 U1.6           U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N785157      pins ADDED TO this new net
+                                 CB1.2          L2.1           U4.14          
+                                 U5.3           U6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N785229      pins ADDED TO this new net
+                                 D4.2           R5.1           U5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N785237      pins ADDED TO this new net
+                                 R5.2           R7.2           U4.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N785257      pins ADDED TO this new net
+                                 D5.2           R6.1           U6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N785277      pins ADDED TO this new net
+                                 R6.2           R8.2           U4.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N785293      pins ADDED TO this new net
+                                 CB1.1          D6.1           U4.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N785353      pins ADDED TO this new net
+                                 U4.12          U4.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N785357      pins ADDED TO this new net
+                                 U4.6           U4.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N788205      pins ADDED TO this new net
+                                 U7.6           U7.7           U7.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N794214      pins ADDED TO this new net
+                                 C20.1          R11.2          R12.1          
+                                 U10.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N794222      pins ADDED TO this new net
+                                 R9.2           R10.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N794226      pins ADDED TO this new net
+                                 R10.2          R11.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N796143      pins ADDED TO this new net
+                                 C22.1          R13.1          R16.2          
+                                 U11.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  ACTIVEBUFFER_V2.brd                                                         |
+|                                                    Wed Feb 15 20:48:49 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N796151      pins ADDED TO this new net
+                                 R14.2          R15.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N796155      pins ADDED TO this new net
+                                 R15.2          R16.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N796789      pins ADDED TO this new net
+                                 C23.1          R17.1          R20.2          
+                                 U12.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N796813      pins ADDED TO this new net
+                                 R18.2          R19.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N796817      pins ADDED TO this new net
+                                 R19.2          R20.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N797548      pins ADDED TO this new net
+                                 R22.2          R23.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N797568      pins ADDED TO this new net
+                                 R23.2          R24.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N798297      pins ADDED TO this new net
+                                 R25.2          R26.1          U13.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N7819080     pins ADDED TO this new net
+                                 D1.1           R3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N7820210     pins ADDED TO this new net
+                                 D2.1           R4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N7852050     pins ADDED TO this new net
+                                 D4.1           R7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N7852490     pins ADDED TO this new net
+                                 D5.1           R8.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PGND         pins ADDED TO this new net
+                                 C3.2           C22.2          J1.3           
+                                 J1.4           L2.2           R13.2          
+                                 U11.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  REC_NEG_PWM  pins ADDED TO this new net
+                                 J4.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  ACTIVEBUFFER_V2.brd                                                         |
+|                                                    Wed Feb 15 20:48:49 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  REC_POS_PWM  pins ADDED TO this new net
+                                 J3.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  REC_SHUTDOWN pins ADDED TO this new net
+                                 J4.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VC1-         pins ADDED TO this new net
+                                 C1.2           C3.1           C23.2          
+                                 L1.2           R14.1          R17.2          
+                                 U12.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VC2+         pins ADDED TO this new net
+                                 C2.1           R9.1           U2.1           
+                                 U5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VOUT_SENSE   pins ADDED TO this new net
+                                 C24.1          J3.15          R21.1          
+                                 R24.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VREC_SENSE   pins ADDED TO this new net
+                                 J3.26          U12.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V_BUS        pins ADDED TO this new net
+                                 C1.1           J1.1           J1.2           
+                                 R18.1          R22.1          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  ACTIVEBUFFER_V2.brd                                                         |
+|                                                    Wed Feb 15 20:48:49 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP_0402C_0.1UF
+ CAP_0402C_10UF
+ CAP_0402C_1UF
+ C_0603C_0.1UF
+ C_0603C_0.47UF
+ C_0603C_10UF
+ C_2220C_2.2UF
+ C_4030C_1UF
+ DIODE_SOD-123_DIODE
+ GAN_SYS_GS61004B_GAN_SYS_GS6100
+ HEADER 20_6_HEADER14X2-100MIL_H
+ HEADER 2_POWER_HEADER2-200MIL_P
+ HEADER 4_HEADER4-200MIL-SHROUDE
+ INDUCTOR_IHLP-8787MZ-51_22UH
+ LM1117_1_SOT223_LM1117
+ LT1990_DIFFERENCE_AMP_S8_LT1990
+ R_0603R_10K
+ R_0603R_2.2K
+ SI827X_SOIC-16_GAN DUAL GATE DR
+ TPS71533DCKR LDO_SOT-353_TPS715
+ TSM_ISODCDC_S_SOIC-8_ISO DC-DC,
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  ACTIVEBUFFER_V2.brd                                                         |
+|                                                    Wed Feb 15 20:48:49 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_2220C_2.2UF         
+ C2                  C_2220C_2.2UF         
+ C3                  C_2220C_2.2UF         
+ C4                  CAP_0402C_0.1UF       
+ C5                  CAP_0402C_1UF         
+ C6                  CAP_0402C_10UF        
+ C7                  CAP_0402C_0.1UF       
+ C8                  CAP_0402C_1UF         
+ C9                  CAP_0402C_0.1UF       
+ C10                 CAP_0402C_1UF         
+ C11                 CAP_0402C_0.1UF       
+ C12                 CAP_0402C_1UF         
+ C13                 CAP_0402C_10UF        
+ C14                 C_4030C_1UF           
+ C15                 CAP_0402C_1UF         
+ C18                 C_0603C_0.47UF        
+ C19                 C_0603C_0.1UF         
+ C20                 C_0603C_0.1UF         
+ C21                 C_0603C_0.1UF         
+ C22                 C_0603C_0.1UF         
+ C23                 C_0603C_0.1UF         
+ C24                 C_0603C_0.1UF         
+ C25                 C_0603C_10UF          
+ C26                 C_0603C_10UF          
+ C27                 C_0603C_0.1UF         
+ C28                 C_0603C_0.1UF         
+ C29                 C_0603C_0.47UF        
+ C30                 C_0603C_0.1UF         
+ CB1                 CAP_0402C_10UF        
+ CB                  CAP_0402C_10UF        
+ D1                  DIODE_SOD-123_DIODE   
+ D2                  DIODE_SOD-123_DIODE   
+ D3                  DIODE_SOD-123_DIODE   
+ D4                  DIODE_SOD-123_DIODE   
+ D5                  DIODE_SOD-123_DIODE   
+ D6                  DIODE_SOD-123_DIODE   
+ J1                  HEADER 4_HEADER4-200MIL-SHROUDE 
+ J2                  HEADER 2_POWER_HEADER2-200MIL_P 
+ J3                  HEADER 20_6_HEADER14X2-100MIL_H 
+ J4                  HEADER 20_6_HEADER14X2-100MIL_H 
+ L1                  INDUCTOR_IHLP-8787MZ-51_22UH 
+ L2                  INDUCTOR_IHLP-8787MZ-51_22UH 
+ R1                  R_0603R_2.2K          
+ R2                  R_0603R_2.2K          
+ R3                  R_0603R_2.2K          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  ACTIVEBUFFER_V2.brd                                                         |
+|                                                    Wed Feb 15 20:48:49 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R4                  R_0603R_2.2K          
+ R5                  R_0603R_2.2K          
+ R6                  R_0603R_2.2K          
+ R7                  R_0603R_2.2K          
+ R8                  R_0603R_2.2K          
+ R9                  R_0603R_10K           
+ R10                 R_0603R_10K           
+ R11                 R_0603R_10K           
+ R12                 R_0603R_10K           
+ R13                 R_0603R_10K           
+ R14                 R_0603R_10K           
+ R15                 R_0603R_10K           
+ R16                 R_0603R_10K           
+ R17                 R_0603R_10K           
+ R18                 R_0603R_10K           
+ R19                 R_0603R_10K           
+ R20                 R_0603R_10K           
+ R21                 R_0603R_10K           
+ R22                 R_0603R_10K           
+ R23                 R_0603R_10K           
+ R24                 R_0603R_10K           
+ R25                 R_0603R_10K           
+ R26                 R_0603R_10K           
+ R27                 R_0603R_10K           
+ R28                 R_0603R_10K           
+ R29                 R_0603R_10K           
+ R30                 R_0603R_10K           
+ U1                  SI827X_SOIC-16_GAN DUAL GATE DR 
+ U2                  GAN_SYS_GS61004B_GAN_SYS_GS6100 
+ U3                  GAN_SYS_GS61004B_GAN_SYS_GS6100 
+ U4                  SI827X_SOIC-16_GAN DUAL GATE DR 
+ U5                  GAN_SYS_GS61004B_GAN_SYS_GS6100 
+ U6                  GAN_SYS_GS61004B_GAN_SYS_GS6100 
+ U7                  TSM_ISODCDC_S_SOIC-8_ISO DC-DC, 
+ U9                  TPS71533DCKR LDO_SOT-353_TPS715 
+ U10                 LT1990_DIFFERENCE_AMP_S8_LT1990 
+ U11                 LT1990_DIFFERENCE_AMP_S8_LT1990 
+ U12                 LT1990_DIFFERENCE_AMP_S8_LT1990 
+ U13                 TPS71533DCKR LDO_SOT-353_TPS715 
+ U14                 LM1117_1_SOT223_LM1117 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  ACTIVEBUFFER_V2.brd                                                         |
+|                                                    Wed Feb 15 20:48:49 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ C19.2                          PRIM_FILE      .\pstchip.dat
+ C20.2                          PRIM_FILE      .\pstchip.dat
+ C21.2                          PRIM_FILE      .\pstchip.dat
+ C22.2                          PRIM_FILE      .\pstchip.dat
+ C23.2                          PRIM_FILE      .\pstchip.dat
+ C24.2                          PRIM_FILE      .\pstchip.dat
+ C25.2                          PRIM_FILE      .\pstchip.dat
+ C26.2                          PRIM_FILE      .\pstchip.dat
+ C27.2                          PRIM_FILE      .\pstchip.dat
+ C28.2                          PRIM_FILE      .\pstchip.dat
+ C29.2                          PRIM_FILE      .\pstchip.dat
+ C30.2                          PRIM_FILE      .\pstchip.dat
+ CB1.2                          PRIM_FILE      .\pstchip.dat
+ CB.2                           PRIM_FILE      .\pstchip.dat
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ D3.1                           PRIM_FILE      .\pstchip.dat
+ D4.1                           PRIM_FILE      .\pstchip.dat
+ D5.1                           PRIM_FILE      .\pstchip.dat
+ D6.1                           PRIM_FILE      .\pstchip.dat
+ J1.4                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J3.9                           PRIM_FILE      .\pstchip.dat
+ J4.9                           PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ L2.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  ACTIVEBUFFER_V2.brd                                                         |
+|                                                    Wed Feb 15 20:48:49 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ R20.2                          PRIM_FILE      .\pstchip.dat
+ R21.2                          PRIM_FILE      .\pstchip.dat
+ R22.2                          PRIM_FILE      .\pstchip.dat
+ R23.2                          PRIM_FILE      .\pstchip.dat
+ R24.2                          PRIM_FILE      .\pstchip.dat
+ R25.2                          PRIM_FILE      .\pstchip.dat
+ R26.2                          PRIM_FILE      .\pstchip.dat
+ R27.2                          PRIM_FILE      .\pstchip.dat
+ R28.2                          PRIM_FILE      .\pstchip.dat
+ R29.2                          PRIM_FILE      .\pstchip.dat
+ R30.2                          PRIM_FILE      .\pstchip.dat
+ U1.10                          PRIM_FILE      .\pstchip.dat
+ U2.3                           PRIM_FILE      .\pstchip.dat
+ U3.3                           PRIM_FILE      .\pstchip.dat
+ U4.10                          PRIM_FILE      .\pstchip.dat
+ U5.3                           PRIM_FILE      .\pstchip.dat
+ U6.3                           PRIM_FILE      .\pstchip.dat
+ U7.8                           PRIM_FILE      .\pstchip.dat
+ U9.5                           PRIM_FILE      .\pstchip.dat
+ U10.4                          PRIM_FILE      .\pstchip.dat
+ U11.4                          PRIM_FILE      .\pstchip.dat
+ U12.4                          PRIM_FILE      .\pstchip.dat
+ U13.5                          PRIM_FILE      .\pstchip.dat
+ U14.4                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  467                                            |
+|------------------------------------------------------------------------------|

@@ -1,0 +1,276 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Wed Feb 15 20:48:55 2017
+\t (00:00:04)         Host=BROOKSNATHAN User=NathanBrooks Pid=13880 CPUs=4
+\t (00:00:04) 
+\t (00:00:15) Opening existing design...
+\d (00:00:15) Database opened: C:/USERS/PILAWA_GROUP/DOCUMENTS/CADENCE/ACTIVE BUFFER/V2/allegro/ACTIVEBUFFER_V2.brd
+\i (00:00:15) trapsize 10605
+\i (00:00:15) trapsize 10410
+\i (00:00:15) trapsize 10638
+\i (00:00:16) trapsize 9219
+\i (00:00:16) trapsize 13942
+\i (00:00:16) generaledit 
+\i (00:00:20) trapsize 9458
+\i (00:00:23) pick grid 794.50 21281.17
+\t (00:00:23) last pick:  800.00  21300.00
+\i (00:00:24) place manual 
+\i (00:00:32) setwindow form.plc_manual
+\i (00:00:32) FORM plc_manual tree 'MULTISEL YES' U2 'Components by refdes' 
+\w (00:00:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:32) Placing U2 / GAN_SYS_GS61004B_GAN_SYS_GS6100 / GAN_SYS_GS61004B on Top.
+\i (00:00:32) FORM plc_manual tree  U2 'Components by refdes' 
+\i (00:00:33) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
+\i (00:00:33) FORM plc_manual tree  U3 'Components by refdes' 
+\i (00:00:35) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
+\w (00:00:35) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:35) Placing U1 / SI827X_SOIC-16_GAN DUAL GATE DR / SOIC-16 on Top.
+\i (00:00:35) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 20089.42 14509.03
+\i (00:00:39) trapsize 4729
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 20089.42 14509.03
+\i (00:00:39) trapsize 2365
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 20089.43 14509.04
+\i (00:00:40) trapsize 1182
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 20020.86 14452.29
+\i (00:00:40) trapsize 591
+\i (00:00:41) pick grid 19947.56 14432.19
+\t (00:00:41) last pick:  19900.00  14400.00
+\t (00:00:41) Placing U2 / GAN_SYS_GS61004B_GAN_SYS_GS6100 / GAN_SYS_GS61004B on Top.
+\i (00:00:42) pick grid 20444.12 14550.42
+\t (00:00:42) last pick:  20400.00  14600.00
+\t (00:00:42) Placing U3 / GAN_SYS_GS61004B_GAN_SYS_GS6100 / GAN_SYS_GS61004B on Top.
+\i (00:00:43) pick grid 20422.84 14250.12
+\t (00:00:43) last pick:  20400.00  14300.00
+\i (00:00:48) setwindow form.plc_manual
+\i (00:00:48) FORM plc_manual tree 'MULTISEL YES' L1 'Components by refdes' 
+\w (00:00:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:48) Placing L1 / INDUCTOR_IHLP-8787MZ-51_22UH / IHLP-8787MZ-51 on Top.
+\i (00:00:48) FORM plc_manual tree  L1 'Components by refdes' 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) pick grid 20956.06 14406.18
+\t (00:00:49) last pick:  21000.00  14400.00
+\i (00:00:51) Esc 
+\i (00:00:55) pick grid 21633.51 14574.07
+\t (00:00:55) last pick:  21600.00  14600.00
+\i (00:00:56) trapsize 798
+\i (00:00:59) trapsize 681
+\i (00:01:00) trapsize 644
+\i (00:01:00) trapsize 640
+\i (00:01:01) trapsize 591
+\i (00:01:03) trapsize 798
+\i (00:01:08) trapsize 591
+\i (00:01:12) pick grid 20181.67 13658.98
+\t (00:01:12) last pick:  20200.00  13700.00
+\i (00:01:13) pick grid 20181.67 13658.98
+\t (00:01:13) last pick:  20200.00  13700.00
+\i (00:01:14) trapsize 798
+\i (00:01:18) trapsize 733
+\i (00:01:19) trapsize 722
+\i (00:01:19) trapsize 714
+\i (00:01:19) trapsize 712
+\i (00:01:19) trapsize 711
+\i (00:01:22) trapsize 710
+\i (00:01:22) trapsize 629
+\i (00:01:22) trapsize 596
+\i (00:01:23) trapsize 595
+\i (00:01:23) trapsize 594
+\i (00:01:24) pick grid 19725.43 13818.69
+\t (00:01:24) last pick:  19700.00  13800.00
+\i (00:01:26) pick grid 19598.25 14058.77
+\t (00:01:26) last pick:  19600.00  14100.00
+\i (00:01:45) setwindow form.plc_manual
+\i (00:01:45) FORM plc_manual done  
+\i (00:01:45) setwindow pcb
+\i (00:01:45) generaledit 
+\i (00:01:46) pick grid 19385.51 14377.30
+\t (00:01:46) last pick:  19400.00  14400.00
+\i (00:01:55) place manual 
+\i (00:02:00) setwindow form.plc_manual
+\i (00:02:00) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\w (00:02:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:00) Placing J1 / HEADER 4_HEADER4-200MIL-SHROUDE / HEADER4-200MIL-SHROUDED on Top.
+\i (00:02:00) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:02:02) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\i (00:02:02) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:02:03) FORM plc_manual tree 'MULTISEL YES' J3 'Components by refdes' 
+\i (00:02:03) FORM plc_manual tree  J3 'Components by refdes' 
+\i (00:02:03) FORM plc_manual tree 'MULTISEL YES' J4 'Components by refdes' 
+\i (00:02:03) FORM plc_manual tree  J4 'Components by refdes' 
+\i (00:02:07) FORM plc_manual tree 'MULTISEL NO' J2 'Components by refdes' 
+\i (00:02:07) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:02:07) FORM plc_manual tree 'MULTISEL NO' J1 'Components by refdes' 
+\t (00:02:07) Placing J3 / HEADER 20_6_HEADER14X2-100MIL_H / HEADER14X2-100MIL on Top.
+\i (00:02:07) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:02:08) FORM plc_manual tree 'MULTISEL NO' J3 'Components by refdes' 
+\t (00:02:08) Placing J4 / HEADER 20_6_HEADER14X2-100MIL_H / HEADER14X2-100MIL on Top.
+\i (00:02:08) FORM plc_manual tree  J3 'Components by refdes' 
+\i (00:02:09) FORM plc_manual tree 'MULTISEL NO' J4 'Components by refdes' 
+\i (00:02:09) FORM plc_manual tree  J4 'Components by refdes' 
+\i (00:02:09) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\t (00:02:10) Placing J2 / HEADER 2_POWER_HEADER2-200MIL_P / POWER_HEADER2-200MIL on Top.
+\i (00:02:10) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:02:16) FORM plc_manual cancel  
+\i (00:02:16) setwindow pcb
+\i (00:02:16) generaledit 
+\i (00:02:32) pick grid 20032.07 13992.21
+\t (00:02:32) last pick:  20000.00  14000.00
+\i (00:03:05) zoom in 1 
+\i (00:03:05) setwindow pcb
+\i (00:03:05) zoom in 20041.57 14314.30
+\i (00:03:05) trapsize 297
+\i (00:03:08) move 
+\t (00:03:08) Select element(s) to move.
+\i (00:03:09) pick grid 19904.30 14337.48
+\t (00:03:09) last pick:  19900.00  14300.00
+\t (00:03:09) last pick:  19900.00  14400.00
+\t (00:03:09) Moving U1 / SI827X_SOIC-16_GAN DUAL GATE DR / SOIC-16.
+\t (00:03:09) Pick new location for the element(s).
+\i (00:03:16) pick grid 20050.49 14381.46
+\t (00:03:16) last pick:  20100.00  14400.00
+\i (00:03:18) pick grid 19618.46 14549.63
+\t (00:03:18) last pick:  19600.00  14500.00
+\i (00:03:27) enved 
+\i (00:03:34) setwindow form.prfedit
+\i (00:03:34) FORM prfedit cancel  
+\i (00:03:43) setwindow pcb
+\i (00:03:43) prmed 
+\i (00:03:46) setwindow form.prmedit
+\i (00:03:46) FORM prmedit design  
+\i (00:03:50) FORM prmedit cancel  
+\i (00:03:51) setwindow pcb
+\i (00:03:51) generaledit 
+\i (00:03:54) define grid 
+\t (00:03:54) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:03:54) generaledit 
+\i (00:04:01) setwindow form.grid
+\i (00:04:01) FORM grid bottom subclass_x_grids 25.00 
+\i (00:04:04) FORM grid all_etch all_etch_x_grids 5 
+\i (00:04:05) FORM grid all_etch all_etch_y_grids 5 
+\i (00:04:06) FORM grid done  
+\i (00:04:09) setwindow pcb
+\i (00:04:09) move 
+\t (00:04:09) Select element(s) to move.
+\i (00:04:10) pick grid 20093.87 14339.27
+\t (00:04:10) last pick:  20100.00  14300.00
+\t (00:04:10) last pick:  20100.00  14400.00
+\t (00:04:10) Moving U1 / SI827X_SOIC-16_GAN DUAL GATE DR / SOIC-16.
+\t (00:04:10) Pick new location for the element(s).
+\i (00:04:11) pick grid 20051.08 14414.14
+\t (00:04:11) last pick:  20100.00  14400.00
+\i (00:04:13) define grid 
+\t (00:04:13) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:04:18) setwindow form.grid
+\i (00:04:18) FORM grid non_etch non_etch_x_grids 5 
+\i (00:04:19) FORM grid non_etch non_etch_y_grids 5 
+\i (00:04:21) FORM grid done  
+\i (00:04:23) setwindow pcb
+\i (00:04:23) move 
+\t (00:04:23) Select element(s) to move.
+\i (00:04:24) pick grid 20055.84 14401.66
+\t (00:04:24) last pick:  20055.00  14400.00
+\t (00:04:24) last pick:  20100.00  14400.00
+\t (00:04:24) Moving U1 / SI827X_SOIC-16_GAN DUAL GATE DR / SOIC-16.
+\t (00:04:24) Pick new location for the element(s).
+\i (00:04:28) pick grid 20093.87 14407.61
+\t (00:04:28) last pick:  20095.00  14410.00
+\i (00:04:33) xsection 
+   (00:04:33) Loading cmds.cxt 
+   (00:04:33) Loading floor.cxt 
+   (00:04:33) Loading skillExt.cxt 
+   (00:04:33) Loading axlcore.cxt 
+\i (00:04:36) setwindow form.fplyrstack
+\i (00:04:36) FORM fplyrstack lsgrid rprepopup 3,type 
+\i (00:04:37) FORM fplyrstack lsgrid rpopup 3,type 'Add Layer Above' 
+   (00:04:38) Loading signal.cxt 
+\i (00:04:40) FORM fplyrstack lsgrid rprepopup 4,name 
+\i (00:04:40) FORM fplyrstack lsgrid rpopup 4,name 'Add Layer Above' 
+\i (00:04:42) FORM fplyrstack lsgrid rprepopup 4,name 
+\i (00:04:43) FORM fplyrstack lsgrid rpopup 4,name 'Add Layer Above' 
+\i (00:04:43) FORM fplyrstack lsgrid rprepopup 4,name 
+\i (00:04:44) FORM fplyrstack lsgrid rpopup 4,name 'Add Layer Above' 
+\i (00:04:45) FORM fplyrstack lsgrid lprepopup 6,type 
+\i (00:04:45) FORM fplyrstack lsgrid cell 6,type 
+\i (00:04:46) FORM fplyrstack lsgrid change 6,type CONDUCTOR 
+\i (00:04:47) FORM fplyrstack lsgrid lprepopup 4,type 
+\i (00:04:47) FORM fplyrstack lsgrid cell 4,type 
+\i (00:04:48) FORM fplyrstack lsgrid change 4,type CONDUCTOR 
+\i (00:04:57) FORM fplyrstack lsgrid cell 4,name 
+\i (00:05:01) FORM fplyrstack lsgrid change 4,name 2 
+\i (00:05:01) FORM fplyrstack lsgrid cell 6,name 
+\i (00:05:04) FORM fplyrstack lsgrid change 6,name 3 
+\i (00:05:09) FORM fplyrstack lsgrid cell 4,name 
+\i (00:05:19) FORM fplyrstack lsgrid change 4,name 'LAYER 2' 
+\i (00:05:19) FORM fplyrstack lsgrid cell 6,name 
+\i (00:05:25) FORM fplyrstack lsgrid change 6,name 'LAYER 3' 
+\i (00:05:29) FORM fplyrstack lsgrid cell 4,name 
+\i (00:05:31) FORM fplyrstack lsgrid change 4,name LAYER2 
+\i (00:05:31) FORM fplyrstack lsgrid cell 6,name 
+\i (00:05:32) FORM fplyrstack lsgrid change 6,name LAYER3 
+\i (00:05:38) FORM fplyrstack lsgrid cell 2,thickness 
+\i (00:05:54) FORM fplyrstack done  
+\i (00:05:54) setwindow pcb
+\i (00:05:54) generaledit 
+\i (00:05:55) pick grid 19979.77 14153.85
+\t (00:05:55) last pick:  19980.00  14155.00
+\i (00:05:58) add connect 
+\t (00:05:58) Pick first element.
+\i (00:05:59) pick grid 19983.34 14232.89
+\t (00:05:59) last pick:  19985.00  14235.00
+\t (00:05:59) last pick:  19988.70  14235.00
+\t (00:05:59) Target Symbol Pin is defined on TOP.
+\t (00:05:59) last pick:  19988.70  14235.00
+\i (00:06:00) pick grid 19979.77 14102.15
+\t (00:06:00) last pick:  19980.00  14100.00
+\t (00:06:00) No DRC errors detected.
+\i (00:06:00) pick grid dbl 19979.18 14098.59
+\t (00:06:00) last pick:  19980.00  14100.00
+\t (00:06:00) VIA used for drill.
+\t (00:06:00) No DRC errors detected.
+\i (00:06:03) pick grid 20136.66 14092.05
+\t (00:06:03) last pick:  20135.00  14090.00
+\t (00:06:03) No DRC errors detected.
+\i (00:06:03) pick grid dbl 20136.66 14090.27
+\t (00:06:03) last pick:  20135.00  14090.00
+\t (00:06:03) VIA used for drill.
+\t (00:06:03) No DRC errors detected.
+\i (00:06:09) trapsize 330
+\i (00:06:14) prepopup 19833.60 14548.45
+\i (00:06:15) cancel 
+\i (00:06:15) generaledit 
+\i (00:06:25) reset dockwindows 
+\i (00:06:27) fillin yes 
+\i (00:06:27) trapsize 334
+\i (00:06:27) trapsize 297
+\i (00:06:27) generaledit 
+\i (00:06:31) trapsize 334
+\i (00:06:35) trapsize 330
+\i (00:06:41) add connect 
+\t (00:06:41) Pick first element.
+\i (00:06:42) pick grid 19988.65 14240.99
+\t (00:06:42) last pick:  19990.00  14240.00
+\t (00:06:42) last pick:  19988.70  14235.00
+\t (00:06:42) Target Symbol Pin is defined on TOP.
+\t (00:06:42) last pick:  19988.70  14235.00
+\i (00:06:48) pick grid 20010.42 14057.56
+\t (00:06:48) last pick:  20010.00  14060.00
+\t (00:06:48) No DRC errors detected.
+\i (00:06:48) pick grid dbl 20010.42 14057.56
+\t (00:06:48) last pick:  20010.00  14060.00
+\t (00:06:48) VIA used for drill.
+\t (00:06:48) No DRC errors detected.
+\i (00:07:05) prepopup 20333.72 14113.65
+\i (00:07:22) cancel 
+\i (00:07:22) generaledit 
+\i (00:09:19) place manual 
+\i (00:09:22) setwindow form.plc_manual
+\i (00:09:22) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\t (00:09:2

@@ -7,7 +7,24 @@
     (File ".\activebuffer_v2.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File" "allegro\ACTIVEBUFFER_V2.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
@@ -40,37 +57,33 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-<<<<<<< HEAD
-      (Path "Design Resources"
-         "C:\Users\pilawa_group\Documents\Cadence\Active Buffer\v2\activebuffer_v2.dsn")
-      (Select "Design Resources"
-         "C:\Users\pilawa_group\Documents\Cadence\Active Buffer\v2\activebuffer_v2.dsn"))
-=======
-      (Select "Design Resources"))
->>>>>>> refs/remotes/origin/master
+      (Path "Design Resources" ".\activebuffer_v2.dsn")
+      (Path "Design Resources" ".\activebuffer_v2.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\activebuffer_v2.dsn" "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-<<<<<<< HEAD
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 651"))
-=======
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 651"))
->>>>>>> refs/remotes/origin/master
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 647"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-<<<<<<< HEAD
-        (Placement "44 0 1 -1 -1 -8 -31 50 2225 68 758")
-=======
-        (Placement "44 2 3 -1 -1 -8 -31 50 2225 68 758")
->>>>>>> refs/remotes/origin/master
-        (Scroll "0 17")
-        (Zoom "166")
+        (Placement "44 0 1 -1 -1 -8 -31 52 2227 52 742")
+        (Scroll "-60 0")
+        (Zoom "132")
         (Occurrence "/"))
       (Path
          "C:\USERS\PILAWA_GROUP\DOCUMENTS\CADENCE\ACTIVE BUFFER\V2\ACTIVEBUFFER_V2.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
-  (MPSSessionName "NathanBrooks"))
+      (Page "PAGE1"))) >>>>>>> refs/remotes/origin/master
+  (HierarchyView)
+  (Doc
+    (Type "COrCapturePMDoc")
+    (Frame <<<<<<< HEAD
+      (Placement "44 2 3 -1 -1 -8 -31 0 200 0 651")) =======
+    (Placement "44 0 1 -1 -1 -8 -31 0 200 0 651")) >>>>>>>
+   refs/remotes/origin/master
+  (Tab 0)
+  (MPSSessionName "NathanBrooks")
+  (ISPCBBASICLICENSE "false"))
